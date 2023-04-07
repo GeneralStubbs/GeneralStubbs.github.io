@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Sub Sites
 
-- [Project 1 Title](http://example.com/)
+- [A Simple Jupyter Book](my_mermaid_book/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
